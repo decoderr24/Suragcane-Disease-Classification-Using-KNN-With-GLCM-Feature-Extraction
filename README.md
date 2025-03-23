@@ -1,1 +1,1 @@
-# Suragcane-Disease-Classification-Using-KNN-With-GLCM-Feature-Extraction
+# Surgarcane-Disease-Classification-Using-KNN-With-GLCM-Feature-Extraction
